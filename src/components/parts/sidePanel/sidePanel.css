@@ -3,7 +3,6 @@
   min-width: 200px;
   max-width: 300px;
   background-color: #1a1a1a;
-  height: 100%;
 }
 .sidePanel h1 {
   margin: 0px;
@@ -19,4 +18,6 @@
   background-color: #101010;
   padding: 10px 1px 40px 10px;
   margin-left: 15px;
+  color: #ffffff;
+  text-align: left;
 }

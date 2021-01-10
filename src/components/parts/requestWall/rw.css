@@ -1,0 +1,21 @@
+.bodyWrapper{
+    height: 100%;
+    display: flex;
+} 
+.rw_card{
+    background-color: #070707;
+    height: 15vw;
+    margin: 50px;
+    flex: 1 0 21%;
+    width: 15vw;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 10%;
+    color: #fff;
+}
+.requestWall{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
