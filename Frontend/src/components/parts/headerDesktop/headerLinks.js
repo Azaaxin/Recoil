@@ -1,11 +1,12 @@
 import React from "react";
+import { BrowserRouter, Route, Link } from 'react-router-dom';
 export default function Hlinks({ text, onClick, href }) {
   return (
     <>
       <div className="header_browse_menu">
-        <a href={href} onClick={onClick}>
+        <Link to={href} onClick={onClick}>
           {text}
-        </a>
+        </Link>
       </div>
     </>
   );

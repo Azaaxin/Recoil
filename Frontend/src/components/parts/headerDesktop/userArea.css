@@ -1,0 +1,12 @@
+.usercard{
+    margin-right: 15px;
+}
+.header_user_area{
+    display: flex;
+    flex-direction: row;
+    flex-flow: row-reverse;
+    justify-content: flex-start;
+}
+.userFavicon{
+    cursor: pointer;
+}
