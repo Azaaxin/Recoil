@@ -1,0 +1,12 @@
+.login-discord{
+    width: 100%;
+    margin: 43px 28%;
+    background-color: #23272a;
+    padding: 36px;
+    border-radius: 6px;
+    height: 221px;
+}
+
+body, html, .App, #root{
+    height: 100%;
+}

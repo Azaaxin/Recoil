@@ -10,3 +10,14 @@
 .regularBtn:hover {
   background-color: rgba(255, 7, 131, 0.822);
 }
+
+.buttonBig{
+  background-color: rgb(255, 255, 255);
+  border: 0px;
+  color: rgb(0, 0, 0);
+  padding: 5px 15px;
+  border-radius: 20px;
+  width: 80%;
+  height: 45px;
+  cursor: pointer;
+}
